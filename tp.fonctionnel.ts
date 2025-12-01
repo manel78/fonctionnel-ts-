@@ -85,7 +85,6 @@ console.log("prod:", product(nums))
 
 
 
-//5 
 
 export const userList = [
   { name: "Alice", age: 25 },
